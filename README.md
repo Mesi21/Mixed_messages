@@ -42,6 +42,7 @@ It was created with JavaScript
 
 ## Future Features
 - better UI
+- contact form implementation
 - use of an API to generate messages from
 
 ## Show your support:
